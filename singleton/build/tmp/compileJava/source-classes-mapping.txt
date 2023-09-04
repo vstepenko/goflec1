@@ -1,0 +1,6 @@
+ua/edu/duan/gof/Application.java
+ ua.edu.duan.gof.Application
+ua/edu/duan/gof/SynchronizedSingleton.java
+ ua.edu.duan.gof.SynchronizedSingleton
+ua/edu/duan/gof/Singleton.java
+ ua.edu.duan.gof.Singleton

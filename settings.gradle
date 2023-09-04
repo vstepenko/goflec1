@@ -1,0 +1,5 @@
+rootProject.name = 'lec1example'
+include 'singleton'
+include 'factorymethod'
+include 'abstractfactory'
+
