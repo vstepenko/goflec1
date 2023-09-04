@@ -1,0 +1,6 @@
+/.idea/
+/.gradle/
+
+/abstractfactory/build/
+/factorymethod/build/
+/singleton/build
