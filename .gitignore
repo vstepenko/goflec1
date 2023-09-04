@@ -3,4 +3,6 @@
 
 /abstractfactory/build/
 /factorymethod/build/
-/singleton/build
+/singleton/build/
+/builder/build/
+/prototype/build/
