@@ -3,7 +3,7 @@ package ua.edu.duan.gof;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ComplicatedObject {
+public class ComplicatedObject implements Copyable {
 
     private int num;
 
