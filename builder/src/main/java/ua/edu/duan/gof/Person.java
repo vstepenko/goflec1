@@ -22,13 +22,13 @@ public class Person {
         if (Objects.nonNull(surname)) {
             System.out.println("surname: " + surname);
         }
-        if (Objects.nonNull(age)) {
+        if (age != 0) {
             System.out.println("age: " + age);
         }
-        if (Objects.nonNull(height)) {
+        if (height != 0) {
             System.out.println("height: " + height);
         }
-        if (Objects.nonNull(weight)) {
+        if (weight !=0) {
             System.out.println("weight: " + weight);
         }
         if (Objects.nonNull(parents)) {
