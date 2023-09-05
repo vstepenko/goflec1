@@ -25,5 +25,13 @@ public class Application {
 
         myPerson.printPerson();
 
+        PersonWithLombok personWithLombok =
+                PersonWithLombok.builder()
+                        .name("John")
+                        .surname("Snow")
+                        .age(70)
+                        .build();
+
+        personWithLombok.printPerson();
     }
 }
